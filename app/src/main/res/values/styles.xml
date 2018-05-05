@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <declare-styleable name="SimpleViewGroup">
+        <attr name="radius" format="dimension" />
+        <attr name="period" format="integer" />
+        <attr name="autoRotate" format="boolean" />
+    </declare-styleable>
+
 </resources>
